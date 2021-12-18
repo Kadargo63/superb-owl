@@ -133,4 +133,7 @@ d(?!r)       matches a d only if is not followed by r, but r will not be part of
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Robert Isaacs
+Robertisaacs87@yahoo.com
+Portfolio: https://kadargo63.github.io/
+GitHub Profile: https://github.com/Kadargo63 
