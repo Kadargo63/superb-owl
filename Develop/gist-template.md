@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Verifying Dates and Time!
 
-Introductory paragraph (replace this with your text)
+Regex is a fantastic way to extract quality data from any text. Regular expressions work across almost all programming languages; JavaScript, Java, VB, C #, C / C++, Python, Perl, Ruby, Delphi, R, Tcl, and many others. In this tutorial, we will analyze the logic applied to some frequently used inputs, date and time. Being able to validate dates and time can facilitate consistant user inputs and enable a number of applications like appointment schedulers and calendars.
 
 ## Summary
 
